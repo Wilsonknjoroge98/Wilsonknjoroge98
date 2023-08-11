@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Wilson Kamau
-- 👀 I’m interested in Backend Web Development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Node.js projects
+- 👀 I’m interested in Machine Learning and Native applications.
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me via email: {Wilsonknjoroge98@gmail.com}
 
 <!---
