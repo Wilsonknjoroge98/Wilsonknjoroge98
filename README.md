@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wilson Kamau
-- 👀 I’m interested in Machine Learning and Native applications.
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in natural language processing and web applications.
+- 🌱 I’m currently learning Pytorch
 - 📫 How to reach me via email: {Wilsonknjoroge98@gmail.com}
 
 <!---
